@@ -1,3 +1,4 @@
+#This is code for a simple time clock
 import time
 import sys
 import winsound
@@ -39,6 +40,7 @@ def countdown(time_sec):
 
 # Example: 2-second timer
 countdown(5)
+
 
 
  
